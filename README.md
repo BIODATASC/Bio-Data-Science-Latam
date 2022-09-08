@@ -209,7 +209,7 @@ MIRIAM GIRON (PER)
 
 
 	PARA MAS INFORMACION COMUNICARSE A:
-info@biodatascienceslatam.com
+info@biodatasciencelatam.com
 
 	CONSULTAS ADMINISTRATIVAS:
 admin@biodatasciencelatam.com
