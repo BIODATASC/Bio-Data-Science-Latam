@@ -205,3 +205,11 @@ FERNANDO ALEISY GONZALEZ (COL)
 MIRIAM GIRON (PER)
 
   Web: desarrollador web del proyecto.
+
+
+
+	PARA MAS INFORMACION COMUNICARSE A:
+info@biodatascienceslatam.com
+
+	CONSULTAS ADMINISTRATIVAS:
+admin@biodatasciencelatam.com
