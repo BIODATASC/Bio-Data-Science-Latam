@@ -81,29 +81,27 @@ Para estimar o predecir las necesidades de consumo energético y las emisiones d
 
           DISEÑO PRELIMINAR
 
-Para el proyecto se utilizo:
-
-Canal de Youtube:
+	Canal de Youtube:
 
   www.youtube.com/channel/UCpdjjr4A-_4h4ic83yS41Xg
 
-URL github del proyecto.
+	URL github del proyecto.
   
   www.github.com/BIODATASC	
 
-URL del sitio web del proyecto.
+	URL del sitio web del proyecto.
 	 
    www.biodatasciencelatam.com
   
-Archivos dataset usados (originales).
+	Archivos dataset usados (originales).
   
   Api_EmisionCO2.zip
   
-    API_19_DS2_es_csv_v2_4321676.csv
+  API_19_DS2_es_csv_v2_4321676.csv
     
-    Metadata_Country_API_19_DS2_es_csv_v2_4321676.csv
+  Metadata_Country_API_19_DS2_es_csv_v2_4321676.csv
     
-    Metadata_Indicator_API_19_DS2_es_csv_v2_4321676.csv
+  Metadata_Indicator_API_19_DS2_es_csv_v2_4321676.csv
   
   energyco2.csv
   
@@ -113,7 +111,7 @@ Archivos dataset usados (originales).
   
   owid-energy-datadiccionary.csv 
 
-Script de Python del proceso ETL de todo los datasets utilizados(AWS).
+	Script de Python del proceso ETL de todo los datasets utilizados(AWS).
   
   Consumoenergia.py
   
@@ -131,7 +129,7 @@ Script de Python del proceso ETL de todo los datasets utilizados(AWS).
   
   Tipoenergia.py
 
-Archivos dataset procesados.
+	Archivos dataset procesados.
   
   cons_energia.csv
   
@@ -149,11 +147,11 @@ Archivos dataset procesados.
   
   tipo_energia.csv
  
-Script de SQL para generar el modelo relacional.
+	Script de SQL para generar el modelo relacional.
   
   modelo_relacional.sql
 
-Scripts de Python del proceso de regresion y prediccion
+	Scripts de Python del proceso de regresion y prediccion
   
   modelo_de_regresion_cd2.ipynb
   
@@ -161,7 +159,7 @@ Scripts de Python del proceso de regresion y prediccion
   
   Modelo_de_regresion_energias_renovables.ipynb
 
-Archivo en formato PowerBI con KPIs y medidas realizadas
+	Archivo en formato PowerBI con KPIs y medidas realizadas
   
   emisionesco2.pbix
   
@@ -171,13 +169,13 @@ Archivo en formato PowerBI con KPIs y medidas realizadas
   
   produccion.pbix
 
-Otros archivos utilizados
+	Otros archivos utilizados
   
   Ruta_sql.py
   
   data_consumo_generacion_todo.csv
 
-Documentacion Drive:
+	Documentacion Drive:
   
   Cronograma
   
