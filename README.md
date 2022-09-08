@@ -192,19 +192,12 @@ Para estimar o predecir las necesidades de consumo energético y las emisiones d
 
 MARIA VICTORIA ALMANDOZ (ARG)
 
-  Data Engineer: diseño y desarrollo de procesamiento de datos.
-
 SILVINA LOPEZ BUSTELO (ARG)
-
-  Data Analyst: análisis y visualizacion de datos.
 
 FERNANDO ALEISY GONZALEZ (COL)
 
-  Data Scientist: implementacion de modelos predictivos.
-
 MIRIAM GIRON (PER)
 
-  Web: desarrollador web del proyecto.
 
 
 
