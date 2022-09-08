@@ -31,7 +31,7 @@ Posibilidad de tener energía eléctrica en ciudades remotas.
 
           ALCANCE
 
-Se proporciona información desde el año 1990, con ella se podrá realizar predicciones del uso de energías renovables y de las emisiones de CO2. 
+Se proporciona información desde el año 1930, con ella se podrá realizar predicciones del uso de energías renovables y de las emisiones de CO2. 
 La consulta brinda información del tipo de energía que es consumida y generada, también su respectiva generación de CO2  anual a nivel nacional, continental y mundial.
 
 
