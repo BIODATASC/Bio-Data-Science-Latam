@@ -37,7 +37,7 @@ La consulta brinda información del tipo de energía que es consumida y generada
 
           RESTRICCIONES
 
-El análisis proporcionado no será anterior al año 1990.
+El análisis proporcionado no será anterior al año 1930.
 
 La consulta no brindará información a nivel local de cada nación.
 
