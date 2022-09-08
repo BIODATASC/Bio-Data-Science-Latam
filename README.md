@@ -1,4 +1,4 @@
-# Bio-Data-Science-Latam
+# Bio Data Science Latam
 Proyecto grupal (HENRY) 
 
 
